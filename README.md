@@ -1,6 +1,6 @@
 # Arshad Shaik
 
-**Driving Innovation in the Automotive Industry.**  Leading the charge in developing and deploying cutting-edge software solutions for next-generation vehicles. Expertise in QNX-based systems, advanced networking, and the integration of AI-powered technologies.
+**Driving Innovation in the Automotive Industry.**  Leading the charge in developing and deploying mission critical software solutions for Software Defined vehicles. Expertise in QNX-based systems, advanced networking, and the integration of AI-powered technologies.
 
 ## Badges
 
